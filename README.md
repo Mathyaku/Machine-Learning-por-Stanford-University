@@ -1,8 +1,8 @@
 # Machine-Learning-por-Stanford-University
 
-Plataforma: Coursera
+**Plataforma**: Coursera
 
-Ministrado por:  Andrew Ng, Co-founder, Coursera; Adjunct Professor, Stanford University; formerly head of Baidu AI Group/Google Brain
+**Ministrado por**:  Andrew Ng, Co-founder, Coursera; Adjunct Professor, Stanford University; formerly head of Baidu AI Group/Google Brain
 
 
 ### Informação sobre o curso
